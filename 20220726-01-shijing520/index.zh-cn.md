@@ -4,7 +4,7 @@ lastmod: 2022-07-26T16:45:40+08:00
 draft: false
 authors: ["qianxun"]
 description: "元宇宙只是接下来合乎逻辑的一步：将这些虚拟岛屿连接到一个大型的虚拟世界。我们甚至不需要进入这个世界，但我们始终拥有这个世界，它一直在我们身边。马克-扎克伯格本人在这里谈到了互联网的具象化，也就是互联网2.0。"
-featuredImage: "w.jpg"
+featuredImage: "fengmt.jpg"
 tags: ["元宇宙之家","信息","3D世界"，"体育培训"]
 categories: ["news"]
 news: ["元宇宙"]
