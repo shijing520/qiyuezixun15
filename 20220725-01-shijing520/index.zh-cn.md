@@ -9,7 +9,7 @@ featuredImage: "72502.png"
 tags: ["元宇宙场景","虚拟人","环保","ggac探索计划","商业规划"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "jianshen.jpg"
 tags: ["元宇宙场景","健身","VR","健身镜"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
