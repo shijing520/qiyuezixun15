@@ -13,10 +13,7 @@ weight:
 lightgallery: true
 pinned: false
 recommend: true
-recommend1: true
 ---
-
-![](yyz11.jpg)
 
 近年来，元宇宙概念在科技和资本领域掀起阵阵热潮。国内外企业对于元宇宙的探索从未停止：虚拟人、汽车元宇宙、元宇宙书店……层出不穷的元宇宙应用，加速了虚拟与现实融合的交互方式，正逐渐改变和颠覆我们的生活。
 

@@ -16,12 +16,6 @@ recommend: true
 recommend1: true
 ---
 
-
-
-![](facebook.jpg)
-
-
-
 8月8日，有媒体报道，Meta已同意暂停收购VR健身应用“Supernatural”开发商Within Unlimited，Meta对VR工作室的收购因反垄断被迫按下暂停键。
 
 今年7月，美国联邦贸易委员会提起诉讼，寻求阻止这宗交易。美国联邦贸易委员会认为，拥有 Facebook、Instagram、Messenger 和 WhatsApp的Meta已是最大的虚拟现实设备供应商，如果这笔收购获批，Meta 将更加接近于“拥有整个元宇宙的最终目标”，这将大大削弱市场竞争，违反反垄断法。

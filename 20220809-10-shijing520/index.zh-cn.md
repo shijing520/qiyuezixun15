@@ -16,7 +16,7 @@ recommend: true
 recommend1: true
 ---
 
-![](shouji.webp.jpg)
+
 
 作为接棒新消费、人工智能等热门赛道的新产业，颇具想象空间的元宇宙无疑已成为了各路人马争夺的金矿。
 
